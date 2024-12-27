@@ -32,16 +32,6 @@ randomNumber(min = 0, max = 1, isInteger = false)
 - min (number): The minimum value (inclusive). Default is 0.
 - max (number): The maximum value (exclusive). Default is 1.
 - isInteger (boolean): Whether to return an integer. Default is false.
-
-## Examples
-
-````
-// Generate a random float between 1 and 10
-randomNumber(1, 10); // e.g., 4.567
-
-// Generate a random integer between 1 and 10
-randomNumber(1, 10, true); // e.g., 7
-
 ````
 
 ## Contributing
