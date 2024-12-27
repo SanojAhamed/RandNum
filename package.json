@@ -1,0 +1,20 @@
+{
+  "name": "randnum_number_generator",
+  "version": "1.0.0",
+  "description": "A lightweight and easy-to-use random number generator for JavaScript. Generate random numbers with customizable ranges, options for integers or floats, and no unnecessary dependencies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanojAhamed/RandNum.git"
+  },
+  "author": "Sanoj Ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanojAhamed/RandNum/issues"
+  },
+  "homepage": "https://github.com/SanojAhamed/RandNum#readme"
+}
