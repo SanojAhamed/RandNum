@@ -1,6 +1,23 @@
 {
   "name": "randnum_number_generator",
   "version": "1.0.0",
+  "keywords": [
+  "random",
+  "number",
+  "generator",
+  "random-number",
+  "random-generator",
+  "number-generator",
+  "integer",
+  "float",
+  "randomization",
+  "random-numbers",
+  "rng",
+  "utility",
+  "math",
+  "javascript",
+  "npm-package"
+],
   "description": "A lightweight and easy-to-use random number generator for JavaScript. Generate random numbers with customizable ranges, options for integers or floats, and no unnecessary dependencies",
   "main": "index.js",
   "type": "module",
